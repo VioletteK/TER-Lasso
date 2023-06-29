@@ -11,7 +11,11 @@ Le code pour obtenir les graphiques illustrant le sur/sous apprentissage est `Su
 Le code permettant de réaliser l'analyse en composantes principales est dans `ACP.ipynb`.
 
 ### SPCA 
-Pour utiliser ce code, il faut inclure tout le dossier `SPCA` et la fonction se trouve dans `RUN.ipynb`.
+La fonction se trouve dans `RUN.ipynb`.
 
 ## PLS et SPLS
 Les fonctions pour la PLS et la SPLS sont toutes deux dans `SPLS.ipynb`. Il y a plusieurs version de l'algorithme NIPALS qu'il faut encore calibrer... 
+
+## Données
+
+Il y a pitprops pour l'ACP et prostate pour la PLS.
